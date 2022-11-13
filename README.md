@@ -1,5 +1,5 @@
-<h1 align="center">NUSARA</h1>
-<p align="center">W E L C O M E</p>
+<h1 align="center" style="font-weight:bold; font-size:20px;color:red;">NUSARA</h1>
+<p align="center">W E L C O M E</p> 
 <!-- 👋 Hi, I’m @TDNusara
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
