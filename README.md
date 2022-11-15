@@ -1,5 +1,5 @@
 <h1 align="center"><b>WELCOME   TO   MY   PROFILE</b></h1> 
-<p align="center">NUSARA</p>
+<p align="center">👋 Hi, I’m NUSARA</p>
 <!-- 👋 Hi, I’m @TDNusara
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
