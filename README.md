@@ -1,9 +1,14 @@
 <h1 align="center"><b>WELCOME   TO   MY   PROFILE</b></h1> 
 <p align="center">👋 Hi, I’m NUSARA</p>
+</br>
+🌱 I’m currently learning everything
+</br>
+💞️ I’m looking to collaborate on with other content creators
+
 <!-- 👋 Hi, I’m @TDNusara
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning everything
+- 💞️ I’m looking to collaborate on with other content creators
 - 📫 How to reach me ... -->
 
 <!---
