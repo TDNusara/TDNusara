@@ -1,6 +1,8 @@
 <h1 align="center"><b>WELCOME   TO   MY   PROFILE</b></h1> 
 <p align="center">👋 Hi, I’m NUSARA</p>
 </br>
+ 👀 I’m interested in web development
+</br>
 🌱 I’m currently learning everything
 </br>
 💞️ I’m looking to collaborate on with other content creators
